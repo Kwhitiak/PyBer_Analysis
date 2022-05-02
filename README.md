@@ -30,6 +30,6 @@ The below image furthur depcits the spread of Fars between city types.  Urban, t
 ![% of Total Fares by City Type](/Resources/pyber_summary_df.png)
 
 
-# 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Three business recommendations to the CEO for addressing any disparities among the city types.
 
 Based on our above analysis, it can be concluded that Urban City types will see more Rideshares due to higher demand from the greater population.  One recommendation we can make would be to try and get more drivers on the road to assist with the demand in Urban settings.  Increasing pricing in Urban cities would allow a reducation of pricing in Rural and Suburban areas to atract more business in these undeserved areas.  We could also allow higher compensation to divers in Rural and Suburban areas to boost the amnount of drivers on the road.
