@@ -11,7 +11,7 @@ The Summary data of PyBer's dataset provides an overview of the camparisions bet
 
 Conversely, the data also shows a larger percenage of total drivers in Urban city types when compared to Suburban and Rural city types.  There were 2,405 drivers in urban cities, 490 drivers in suburban cities, and 78 drivers in rural cities.
 The below Pie charts shows the makeup of total drivers by City Type.
-![% of Total Drivers by City Type](/Resources/PyBer_TotalDrivers_CityType_PieChart.png")
+![% of Total Drivers by City Type](/Resources/PyBer_TotalDrivers_CityType_PieChart.png)
 
 
 
